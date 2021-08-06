@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+li a{
+    text-decoration: none;
+    color:#fff;
+        display: inline-grid;
+        padding: 10px;
+}
+a:hover{
+    color:#fff;
+}
+.left-nav{
+    padding: 26px 0 20px 0;
+    background: black;
+  
+}
+.content{
+    padding: 0;
+}

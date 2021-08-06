@@ -1,0 +1,22 @@
+body{
+    background: rgb(240, 238, 238);
+    margin: 0;
+    padding: 0;
+}
+ .nav-item a{
+    color:white;
+}
+.btncolor{
+border: 1px solid white;
+color: white;
+}
+.navbar{
+    background: #f7950ddb;
+}
+.navbar-toggler {
+    border: 1px solid black;  
+}
+
+.navbar-toggler:focus {
+    box-shadow: 0 !important;
+}

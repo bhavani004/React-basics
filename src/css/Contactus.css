@@ -1,0 +1,16 @@
+.contactforms .form-group {
+    margin-bottom: 60px;
+}
+.contactforms .form-control {
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+    outline-style: none;
+    border-radius: 0;
+}
+.contactform {
+    background-color: rgb(121 177 202);
+    /* background-image: url("https://th.bing.com/th/id/R.910dd1da27f3e148567511baaed95a0e?rik=0fJoH1V1Y47gbg&riu=http%3a%2f%2falkalinevalleyfoods.com%2fwp-content%2fuploads%2f2016%2f05%2fapplesun-600x400.jpg&ehk=cg3lCYH57j3i42gj8YrxRFQzacTTF5XDdQwVGqGUPfE%3d&risl=&pid=ImgRaw"); */
+    padding: 20px;
+    margin: 50px;
+}

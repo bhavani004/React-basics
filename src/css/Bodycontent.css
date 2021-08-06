@@ -1,0 +1,12 @@
+.body-content{
+    padding: 20px 0 20px 0;
+ 
+}
+.images-block{
+    padding: 15px;
+}
+.image-styling{
+    border: 2px solid white;
+    padding: 10px 10px 70px 10px;
+    box-shadow: 2px 2px 2px #b7a7a7;
+}
